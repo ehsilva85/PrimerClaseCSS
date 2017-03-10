@@ -1,0 +1,46 @@
+
+h1.titulo{
+	font-family: 'Francois One', sans-serif;
+    text-transform: uppercase;
+    color: #3faace;
+    font-size: 80px;
+}
+
+
+
+h3{
+	color:#04539d;
+	font-size: 20px;
+	font-family: 'Monda', sans-serif;
+	}
+
+
+h4{
+	background: rgb(200,233,99);
+	color: rgba(0,0,0,0.4);
+}
+
+.recuadro p:first-child{
+	background: cyan;
+}
+
+.recuadro p:last-child{
+	background: magenta;
+}
+
+.recuadro p:nth-child(2){
+	background: yellow;
+}
+
+.recuadro {
+	font-family: 'Monda', sans-serif;
+	font-color: white;
+}
+
+.iconos{
+	font-size: 30px;
+}
+
+.color-facebook{
+	color: #3b5998;
+}
